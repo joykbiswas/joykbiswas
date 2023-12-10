@@ -22,4 +22,3 @@ Skills:  REACT/Tailwind / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=joykbiswas) 
 
-https://www.linkedin.com/in/joy-kumar-biswas-8a432929b/
