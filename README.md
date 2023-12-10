@@ -2,6 +2,7 @@
 ## I am a frontend developer from Bangladesh.
 ![I am a frontend developer from Bangladesh.](https://i.ibb.co/qnyvdn5/Frontend-devoloper-1.png)
 
+I am a Frontend developer.
 
 Skills:  REACT/Tailwind / JS / HTML / CSS
 
@@ -13,7 +14,7 @@ Skills:  REACT/Tailwind / JS / HTML / CSS
 
 <h3 align="left">Social media :</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joykbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joy-kumar-biswas-8a432929b//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joykbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joy-kumar-biswas-8a432929b/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joykbiswas)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,3 +22,4 @@ Skills:  REACT/Tailwind / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=joykbiswas) 
 
+https://www.linkedin.com/in/joy-kumar-biswas-8a432929b/
