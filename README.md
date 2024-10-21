@@ -4,7 +4,7 @@
 
 I am a Frontend developer with expertise in React and Tailwind CSS.Proficent in modern web tecnologies, including React for building dynamic user interface, Tailwind CSS for effecient styling, and Firebase for seamless backend integration. Experienced in working with databases such as MongoDB and server-side technologies like Express JS. I cultivated through handsd on experience with Figma.Eager to contribute my skills to innovative project. 
 
-Skills:  REACT/Tailwind / JS / HTML / CSS
+Skills:  React.js / Next.js / Javascript / Node js / MongoDB / Express / Tailwind css / HTML / CSS
 
 - 🔭 I’m currently working on survey scribe  
 - 👯 I’m looking to collaborate on github 
